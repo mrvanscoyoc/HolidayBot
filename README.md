@@ -1,2 +1,2 @@
-# Code for a Holiday show bot
-# Code repo for Christmas robot 2015
+Code for a Holiday show bot
+Code repo for Christmas robot 2015
