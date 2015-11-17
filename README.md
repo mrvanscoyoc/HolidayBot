@@ -1,2 +1,3 @@
-Code for a Holiday show bot
+#Holiday Robot Code
+
 Code repo for Christmas robot 2015
